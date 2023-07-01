@@ -8,7 +8,6 @@
   - 🏄 I have many hobbies!
   - 👍 I like to learn things!
  <br/>
- <br/>
   
 ### 📚 Skill Set
 <div>
