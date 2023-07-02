@@ -26,14 +26,11 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
 <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-
-
 </div>
 
+### Blog
+https://yujuck.github.io
 
-<br>
-
-
-![yujuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujuck&show_icons=true&theme=radical)
+<!--![yujuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujuck&show_icons=true&theme=radical)-->
 
 <!-- </div> -->
