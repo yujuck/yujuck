@@ -29,8 +29,6 @@
 </div>
 
 ### Blog
-https://yujuck.github.io
-
 <!--![yujuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujuck&show_icons=true&theme=radical)-->
 
 <!-- </div> -->
